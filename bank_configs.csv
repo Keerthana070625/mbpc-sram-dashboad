@@ -1,0 +1,9 @@
+config_name,num_banks,depth_per_bank,data_width,total_bits
+1_bank_16x8,1,16,8,128
+2_banks_8x8,2,8,8,128
+4_banks_4x8,4,4,8,128
+8_banks_2x8,8,2,8,128
+2_banks_16x4,2,16,4,128
+4_banks_8x4,4,8,4,128
+8_banks_4x4,8,4,4,128
+4_banks_4x8_mbpc4,4,4,8,128
